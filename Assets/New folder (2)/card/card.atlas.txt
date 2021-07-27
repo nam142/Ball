@@ -1,0 +1,27 @@
+
+card.png
+size: 236,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_card copy
+  rotate: false
+  xy: 88, 16
+  size: 71, 105
+  orig: 73, 107
+  offset: 1, 1
+  index: -1
+red_card copy
+  rotate: false
+  xy: 161, 16
+  size: 71, 105
+  orig: 73, 107
+  offset: 1, 1
+  index: -1
+red_card2 copy
+  rotate: false
+  xy: 2, 2
+  size: 84, 119
+  orig: 86, 121
+  offset: 1, 1
+  index: -1

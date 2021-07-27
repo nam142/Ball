@@ -1,0 +1,111 @@
+
+fishanim.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Le
+  rotate: false
+  xy: 495, 2
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 40, 27
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+LmL
+  rotate: true
+  xy: 2, 6
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+LmR
+  rotate: true
+  xy: 21, 6
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+Re
+  rotate: false
+  xy: 438, 2
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: false
+  xy: 40, 10
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 234, 52
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 154, 49
+  size: 205, 78
+  orig: 205, 78
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: true
+  xy: 551, 127
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: false
+  xy: 551, 2
+  size: 87, 123
+  orig: 87, 123
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 234, 2
+  size: 185, 48
+  orig: 185, 48
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: true
+  xy: 438, 63
+  size: 191, 56
+  orig: 191, 56
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 44
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 496, 77
+  size: 177, 53
+  orig: 177, 53
+  offset: 0, 0
+  index: -1
+wow
+  rotate: false
+  xy: 637, 169
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1

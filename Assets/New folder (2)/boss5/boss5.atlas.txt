@@ -1,0 +1,76 @@
+
+boss5.png
+size: 282,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigstar copy
+  rotate: false
+  xy: 131, 176
+  size: 74, 72
+  orig: 74, 75
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 250
+  size: 259, 266
+  orig: 263, 269
+  offset: 2, 2
+  index: -1
+eye
+  rotate: false
+  xy: 207, 161
+  size: 66, 19
+  orig: 68, 21
+  offset: 1, 1
+  index: -1
+horn1
+  rotate: false
+  xy: 131, 124
+  size: 74, 50
+  orig: 76, 52
+  offset: 1, 1
+  index: -1
+horn2
+  rotate: false
+  xy: 182, 56
+  size: 74, 66
+  orig: 76, 68
+  offset: 1, 1
+  index: -1
+horn3
+  rotate: false
+  xy: 182, 10
+  size: 76, 44
+  orig: 78, 46
+  offset: 1, 1
+  index: -1
+horn4
+  rotate: false
+  xy: 207, 182
+  size: 73, 66
+  orig: 75, 68
+  offset: 1, 1
+  index: -1
+hornL
+  rotate: false
+  xy: 2, 2
+  size: 88, 116
+  orig: 90, 118
+  offset: 1, 1
+  index: -1
+hornR
+  rotate: false
+  xy: 92, 2
+  size: 88, 116
+  orig: 90, 118
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 120
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1

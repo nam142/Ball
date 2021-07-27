@@ -1,0 +1,119 @@
+{
+"skeleton": {
+	"hash": "Dtp2/OZ9wWr/GmrVa/juzl1XvxQ",
+	"spine": "3.8.99",
+	"x": -138.77,
+	"y": -1.97,
+	"width": 277,
+	"height": 300,
+	"images": "./images/",
+	"audio": "D:/Red Ball 6 Fix UX UI/char_spin 2"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Ellipse 737 copy 2", "parent": "root", "length": 98.23, "rotation": 90, "y": 20.94 },
+	{ "name": "Layer 4", "parent": "Ellipse 737 copy 2", "length": 29.84, "rotation": 57.19, "x": 62.59, "y": 26.4 },
+	{ "name": "Ellipse 737 copy 3", "parent": "Ellipse 737 copy 2", "x": 156.68, "y": 2.97 },
+	{ "name": "Group 23", "parent": "Ellipse 737 copy 3", "x": -27.72, "y": -47.52 },
+	{ "name": "Group 22", "parent": "Ellipse 737 copy 3", "x": 4.29, "y": 46.53 },
+	{ "name": "Layer 7", "parent": "Ellipse 737 copy 3", "x": 102.32, "y": -36.48 },
+	{ "name": "Layer 3", "parent": "Ellipse 737 copy 2", "length": 71.56, "rotation": -1.89, "x": 201.97, "y": 34.87 },
+	{ "name": "Layer 2", "parent": "Ellipse 737 copy 2", "length": 81.2, "rotation": -27.06, "x": 168.95, "y": -71.63 }
+],
+"slots": [
+	{ "name": "Layer 2", "bone": "Layer 2", "attachment": "Layer 2" },
+	{ "name": "Layer 3", "bone": "Layer 3", "attachment": "Layer 3" },
+	{ "name": "Ellipse 737 copy 2", "bone": "Ellipse 737 copy 2", "attachment": "Ellipse 737 copy 2" },
+	{ "name": "Group 23", "bone": "Group 23", "attachment": "Group 23" },
+	{ "name": "Group 22", "bone": "Group 22", "attachment": "Group 22" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" },
+	{ "name": "Layer 7", "bone": "Layer 7", "attachment": "Layer 7" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Ellipse 737 copy 2": {
+				"Ellipse 737 copy 2": { "x": 115.59, "y": 0.27, "rotation": -90, "width": 277, "height": 277 }
+			},
+			"Group 22": {
+				"Group 22": { "x": 1.12, "y": -6.73, "rotation": -90, "width": 102, "height": 118 }
+			},
+			"Group 23": {
+				"Group 23": { "x": 9.63, "y": 1.32, "rotation": -90, "width": 98, "height": 123 }
+			},
+			"Layer 2": {
+				"Layer 2": { "x": 34.24, "y": -9.57, "rotation": -62.94, "width": 73, "height": 96 }
+			},
+			"Layer 3": {
+				"Layer 3": { "x": 41.06, "y": 17.77, "rotation": -88.11, "width": 87, "height": 67 }
+			},
+			"Layer 4": {
+				"Layer 4": { "x": 19.45, "y": 0.05, "rotation": -147.19, "width": 52, "height": 62 }
+			},
+			"Layer 7": {
+				"Layer 7": { "x": -0.41, "y": -1.72, "rotation": -90, "width": 86, "height": 31 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"bones": {
+			"Ellipse 737 copy 2": {
+				"rotate": [
+					{ "angle": -0.13, "curve": 0.382, "c2": 0.57, "c3": 0.735 },
+					{ "time": 0.1667, "angle": -1.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 3.75, "curve": 0.243, "c3": 0.649, "c4": 0.6 },
+					{ "time": 1, "angle": -0.13 }
+				],
+				"scale": [
+					{ "x": 1.018, "y": 0.975, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "x": 0.987, "y": 1.025, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 1.018, "y": 0.975 }
+				]
+			},
+			"Layer 2": {
+				"rotate": [
+					{ "angle": 0.22, "curve": 0.378, "c2": 0.52, "c3": 0.748 },
+					{ "time": 0.2333, "angle": -4.04, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": 5.31, "curve": 0.248, "c3": 0.628, "c4": 0.52 },
+					{ "time": 1, "angle": 0.22 }
+				]
+			},
+			"Layer 3": {
+				"rotate": [
+					{ "angle": 1.11, "curve": 0.378, "c2": 0.52, "c3": 0.748 },
+					{ "time": 0.2333, "angle": 4.15, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -2.52, "curve": 0.248, "c3": 0.628, "c4": 0.52 },
+					{ "time": 1, "angle": 1.11 }
+				]
+			},
+			"Layer 4": {
+				"rotate": [
+					{ "angle": -4.24, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 5.82, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -4.24 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 1.07, "y": 1.07, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "x": 1.07, "y": 1.07, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": 1.07, "y": 1.07, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1 }
+				]
+			},
+			"Ellipse 737 copy 3": {
+				"scale": [
+					{ "x": 0.998, "curve": 0.378, "c2": 0.52, "c3": 0.748 },
+					{ "time": 0.2333, "x": 1.047, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "x": 0.94, "curve": 0.248, "c3": 0.628, "c4": 0.52 },
+					{ "time": 1, "x": 0.998 }
+				]
+			}
+		}
+	}
+}
+}

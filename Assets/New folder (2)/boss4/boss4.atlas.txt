@@ -1,0 +1,90 @@
+
+boss4.png
+size: 1285,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Saw_Rotate
+  rotate: false
+  xy: 2, 13
+  size: 254, 254
+  orig: 257, 256
+  offset: 1, 1
+  index: -1
+bigstar
+  rotate: false
+  xy: 955, 195
+  size: 74, 72
+  orig: 74, 75
+  offset: 0, 2
+  index: -1
+bodiback
+  rotate: false
+  xy: 1035, 123
+  size: 233, 144
+  orig: 235, 146
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 258, 35
+  size: 343, 232
+  orig: 345, 234
+  offset: 1, 1
+  index: -1
+body2
+  rotate: false
+  xy: 603, 102
+  size: 267, 165
+  orig: 269, 167
+  offset: 1, 1
+  index: -1
+body3
+  rotate: false
+  xy: 1035, 15
+  size: 109, 106
+  orig: 111, 109
+  offset: 1, 1
+  index: -1
+bodyfront
+  rotate: false
+  xy: 1146, 19
+  size: 137, 102
+  orig: 139, 104
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 819, 2
+  size: 214, 98
+  orig: 221, 105
+  offset: 3, 3
+  index: -1
+eyes2
+  rotate: false
+  xy: 603, 2
+  size: 214, 98
+  orig: 219, 103
+  offset: 2, 2
+  index: -1
+lazer
+  rotate: false
+  xy: 258, 22
+  size: 75, 11
+  orig: 75, 11
+  offset: 0, 0
+  index: -1
+tube1
+  rotate: false
+  xy: 872, 184
+  size: 81, 83
+  orig: 83, 85
+  offset: 1, 1
+  index: -1
+tube2
+  rotate: false
+  xy: 872, 103
+  size: 73, 79
+  orig: 75, 81
+  offset: 1, 1
+  index: -1

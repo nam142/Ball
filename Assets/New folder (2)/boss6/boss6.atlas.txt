@@ -1,0 +1,118 @@
+
+boss6.png
+size: 665,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 copy 10
+  rotate: false
+  xy: 279, 86
+  size: 164, 188
+  orig: 276, 316
+  offset: 111, 127
+  index: -1
+1 copy 11
+  rotate: false
+  xy: 445, 112
+  size: 174, 162
+  orig: 314, 293
+  offset: 1, 130
+  index: -1
+Layer 10
+  rotate: false
+  xy: 136, 2
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 618, 456
+  size: 45, 66
+  orig: 47, 68
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 611, 42
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 186, 17
+  size: 43, 41
+  orig: 45, 43
+  offset: 1, 1
+  index: -1
+bigstar
+  rotate: false
+  xy: 542, 450
+  size: 74, 72
+  orig: 74, 75
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 279, 276
+  size: 261, 246
+  orig: 263, 248
+  offset: 1, 1
+  index: -1
+boss6face
+  rotate: false
+  xy: 2, 248
+  size: 275, 274
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 18
+  size: 132, 40
+  orig: 134, 42
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 464, 5
+  size: 103, 25
+  orig: 105, 27
+  offset: 1, 1
+  index: -1
+leaf_L
+  rotate: false
+  xy: 603, 290
+  size: 60, 158
+  orig: 60, 158
+  offset: 0, 0
+  index: -1
+leaf_R
+  rotate: false
+  xy: 542, 289
+  size: 59, 159
+  orig: 59, 159
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 60
+  size: 247, 186
+  orig: 249, 188
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 464, 32
+  size: 145, 78
+  orig: 147, 80
+  offset: 1, 1
+  index: -1
+tie
+  rotate: false
+  xy: 251, 24
+  size: 211, 60
+  orig: 213, 62
+  offset: 1, 1
+  index: -1

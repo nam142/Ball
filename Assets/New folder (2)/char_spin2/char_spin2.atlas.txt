@@ -1,0 +1,55 @@
+
+char_spin2.png
+size: 277,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 737 copy 2
+  rotate: false
+  xy: 2, 184
+  size: 273, 273
+  orig: 277, 277
+  offset: 2, 2
+  index: -1
+Group 22
+  rotate: false
+  xy: 2, 68
+  size: 98, 114
+  orig: 102, 118
+  offset: 2, 2
+  index: -1
+Group 23
+  rotate: false
+  xy: 102, 62
+  size: 94, 120
+  orig: 98, 123
+  offset: 2, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 198, 88
+  size: 71, 94
+  orig: 73, 96
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 85, 64
+  orig: 87, 67
+  offset: 1, 2
+  index: -1
+Layer 4
+  rotate: false
+  xy: 198, 26
+  size: 50, 60
+  orig: 52, 62
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 89, 31
+  size: 84, 29
+  orig: 86, 31
+  offset: 1, 1
+  index: -1

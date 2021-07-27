@@ -1,0 +1,62 @@
+
+skin.png
+size: 333,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 96, 14
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+Layer 13 (merged)
+  rotate: false
+  xy: 284, 32
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 284, 12
+  size: 14, 18
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 280, 58
+  size: 51, 45
+  orig: 53, 47
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 2
+  size: 92, 101
+  orig: 94, 103
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: false
+  xy: 187, 62
+  size: 91, 41
+  orig: 93, 43
+  offset: 1, 1
+  index: -1
+hand
+  rotate: false
+  xy: 187, 5
+  size: 58, 55
+  orig: 60, 58
+  offset: 1, 2
+  index: -1
+wow
+  rotate: false
+  xy: 247, 16
+  size: 35, 40
+  orig: 37, 42
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,146 @@
+
+boss8.png
+size: 522,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 307, 133
+  size: 49, 111
+  orig: 53, 115
+  offset: 2, 2
+  index: -1
+R
+  rotate: false
+  xy: 307, 20
+  size: 49, 111
+  orig: 53, 115
+  offset: 2, 2
+  index: -1
+Shape 1 copy
+  rotate: false
+  xy: 2, 271
+  size: 239, 240
+  orig: 243, 244
+  offset: 2, 2
+  index: -1
+bigstar copy
+  rotate: false
+  xy: 198, 2
+  size: 74, 72
+  orig: 74, 75
+  offset: 0, 2
+  index: -1
+body back
+  rotate: false
+  xy: 2, 98
+  size: 221, 171
+  orig: 223, 173
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 2, 10
+  size: 194, 86
+  orig: 198, 90
+  offset: 2, 2
+  index: -1
+gear
+  rotate: false
+  xy: 243, 246
+  size: 105, 104
+  orig: 107, 106
+  offset: 1, 1
+  index: -1
+gear2
+  rotate: false
+  xy: 243, 246
+  size: 105, 104
+  orig: 107, 106
+  offset: 1, 1
+  index: -1
+gun_L
+  rotate: false
+  xy: 350, 267
+  size: 80, 83
+  orig: 84, 87
+  offset: 2, 2
+  index: -1
+gun_L0
+  rotate: false
+  xy: 225, 161
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_L2_1
+  rotate: false
+  xy: 432, 267
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_L2_2
+  rotate: false
+  xy: 225, 76
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_L2_3
+  rotate: false
+  xy: 358, 182
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_R
+  rotate: false
+  xy: 440, 182
+  size: 80, 83
+  orig: 84, 87
+  offset: 2, 2
+  index: -1
+gun_R0
+  rotate: false
+  xy: 358, 97
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_R2_1
+  rotate: false
+  xy: 440, 97
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_R2_2
+  rotate: false
+  xy: 358, 12
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+gun_R2_3
+  rotate: false
+  xy: 440, 12
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+mouth_bot
+  rotate: false
+  xy: 243, 410
+  size: 259, 101
+  orig: 259, 101
+  offset: 0, 0
+  index: -1
+mouth_top
+  rotate: false
+  xy: 243, 352
+  size: 249, 56
+  orig: 251, 58
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+boss7.png
+size: 348,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 copy 10
+  rotate: false
+  xy: 288, 289
+  size: 41, 297
+  orig: 41, 297
+  offset: 0, 0
+  index: -1
+1 copy 11
+  rotate: false
+  xy: 244, 286
+  size: 42, 300
+  orig: 42, 300
+  offset: 0, 0
+  index: -1
+bigstar
+  rotate: false
+  xy: 176, 2
+  size: 74, 72
+  orig: 74, 75
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 118
+  size: 239, 208
+  orig: 243, 212
+  offset: 2, 2
+  index: -1
+boss7face
+  rotate: false
+  xy: 2, 588
+  size: 342, 258
+  orig: 342, 275
+  offset: 0, 8
+  index: -1
+eye
+  rotate: false
+  xy: 2, 5
+  size: 143, 25
+  orig: 145, 27
+  offset: 1, 1
+  index: -1
+horn_L
+  rotate: false
+  xy: 243, 181
+  size: 103, 103
+  orig: 105, 105
+  offset: 1, 1
+  index: -1
+horn_R
+  rotate: false
+  xy: 243, 76
+  size: 103, 103
+  orig: 105, 105
+  offset: 1, 1
+  index: -1
+mask
+  rotate: false
+  xy: 2, 328
+  size: 240, 258
+  orig: 242, 261
+  offset: 1, 2
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 32
+  size: 172, 84
+  orig: 174, 86
+  offset: 1, 1
+  index: -1

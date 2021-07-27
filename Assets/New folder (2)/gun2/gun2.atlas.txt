@@ -1,0 +1,48 @@
+
+gun2.png
+size: 241,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun1
+  rotate: false
+  xy: 2, 69
+  size: 139, 57
+  orig: 141, 59
+  offset: 1, 1
+  index: -1
+gun2
+  rotate: false
+  xy: 2, 4
+  size: 126, 63
+  orig: 127, 63
+  offset: 0, 0
+  index: -1
+gun3
+  rotate: false
+  xy: 143, 58
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 130, 14
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 130, 40
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+vit
+  rotate: false
+  xy: 203, 2
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
